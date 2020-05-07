@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOD508
+D 30V N-Channel AlphaMOS 22A
+K Custom MOSFET N-CHANNEL
+F http://www.aosmd.com/pdfs/datasheet/AOD508.pdf
+$ENDCMP
+#
+#End Doc Library
